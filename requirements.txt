@@ -1,5 +1,5 @@
 numpy==1.19
-matplotlib==3.3.x
+matplotlib==3.3.3
 scipy==1.5.4
 tabulate
 pytz
